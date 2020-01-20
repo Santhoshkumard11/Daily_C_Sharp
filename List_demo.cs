@@ -47,3 +47,6 @@ class Solution {
         textWriter.Close();
     }
 }
+
+//solved by santhohsgokuu
+//hackerrank problem
