@@ -1,3 +1,3 @@
 # Daily_C#
 
-Find the sample code in files
+Check out the various programs 
